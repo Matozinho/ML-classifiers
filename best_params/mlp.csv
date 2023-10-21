@@ -1,2 +1,21 @@
 hidden_layer_sizes,activation,max_iter,learning_rate
+"(100,)",logistic,2000,invscaling
+"(50, 50)",logistic,1000,constant
+"(100,)",logistic,1000,invscaling
+"(50, 50)",logistic,1000,constant
+"(100,)",logistic,1000,adaptive
+"(100,)",logistic,2000,constant
+"(100,)",logistic,2000,invscaling
+"(100,)",logistic,2000,constant
+"(100,)",logistic,2000,constant
+"(100, 50, 25)",logistic,1000,adaptive
+"(100,)",logistic,1000,adaptive
+"(50, 50)",logistic,2000,constant
+"(100,)",logistic,2000,constant
+"(100,)",logistic,1000,invscaling
+"(50, 50)",logistic,2000,constant
+"(100,)",logistic,1000,invscaling
+"(100,)",logistic,1000,constant
 "(50, 50)",logistic,2000,adaptive
+"(100,)",logistic,2000,invscaling
+"(100,)",logistic,2000,constant
