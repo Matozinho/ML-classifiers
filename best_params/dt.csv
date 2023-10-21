@@ -1,0 +1,2 @@
+criterion,max_depth,min_samples_split,min_samples_leaf
+entropy,25,5,1

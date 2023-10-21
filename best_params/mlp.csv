@@ -1,0 +1,2 @@
+hidden_layer_sizes,activation,max_iter,learning_rate
+"(50, 50)",logistic,2000,adaptive
